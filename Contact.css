@@ -1,3 +1,136 @@
-.u-section-1 .u-sheet-1 {
-  min-height: 400px;
+ .u-section-1 {
+  background-image: none;
+  min-height: 674px;
+}
+
+.u-section-1 .u-shape-1 {
+  height: 459px;
+  background-image: none;
+  margin: 108px auto 0;
+}
+
+.u-section-1 .u-group-1 {
+  width: 652px;
+  min-height: 215px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  height: auto;
+  margin: -337px auto 60px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 50px 30px 40px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 0 5px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 20px 5px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 687px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 459px;
+    margin-top: -330px;
+    height: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 31px;
+    padding-right: 31px;
+    padding-bottom: 24px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 827px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    height: 613px;
+    margin-top: 107px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 643px;
+    margin-top: -414px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding: 40px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 514px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    height: 367px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+    margin-top: -299px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding: 30px 36px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-right: 0;
+    margin-left: 10px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 650px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    height: 522px;
+    margin-top: 60px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+    margin-top: -368px;
+    margin-bottom: 213px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 26px;
+    padding-right: 26px;
+  }
 }
