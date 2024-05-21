@@ -142,7 +142,7 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 980px;
+  min-height: 981px;
 }
 
 .u-section-3 .u-text-1 {
@@ -152,14 +152,14 @@
 .u-section-3 .u-text-2 {
   font-size: 1.125rem;
   background-image: none;
-  margin: 0 763px 0 0;
+  margin: 0;
 }
 
 .u-section-3 .u-tabs-1 {
   min-height: 765px;
   height: auto;
   margin-top: 34px;
-  margin-bottom: 34px;
+  margin-bottom: 35px;
 }
 
 .u-section-3 .u-tab-link-1 {
@@ -504,10 +504,6 @@
     min-height: 999px;
   }
 
-  .u-section-3 .u-text-2 {
-    margin-right: 563px;
-  }
-
   .u-section-3 .u-tabs-1 {
     min-height: 809px;
     margin-bottom: 9px;
@@ -589,10 +585,6 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-3 .u-text-2 {
-    margin-right: 343px;
-  }
-
   .u-section-3 .u-line-1 {
     width: 720px;
   }
@@ -627,10 +619,6 @@
     width: 720px;
   }
 
-  .u-section-3 .u-group-3 {
-    min-height: 779px;
-  }
-
   .u-section-3 .u-image-7 {
     width: 720px;
     height: 274px;
@@ -658,7 +646,6 @@
 @media (max-width: 767px) {
   .u-section-3 .u-text-2 {
     font-size: 1rem;
-    margin-right: 163px;
   }
 
   .u-section-3 .u-line-1 {
@@ -710,10 +697,6 @@
     width: 540px;
   }
 
-  .u-section-3 .u-group-3 {
-    min-height: 639px;
-  }
-
   .u-section-3 .u-image-7 {
     width: 540px;
     height: 206px;
@@ -753,10 +736,6 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-3 .u-text-2 {
-    margin-right: 0;
-  }
-
   .u-section-3 .u-line-1 {
     width: 340px;
   }
@@ -810,10 +789,6 @@
 
   .u-section-3 .u-line-4 {
     width: 340px;
-  }
-
-  .u-section-3 .u-group-3 {
-    min-height: 439px;
   }
 
   .u-section-3 .u-image-7 {
@@ -1067,11 +1042,20 @@
   background-image: none;
 }
 
+.u-section-4 .u-btn-21 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-4 .u-table-cell-89 {
   background-image: none;
 }
 
 .u-section-4 .u-table-cell-93 {
+  background-image: none;
+}
+
+.u-section-4 .u-table-cell-97 {
   background-image: none;
 }
 
@@ -1083,4 +1067,10 @@
   .u-section-4 .u-text-2 {
     font-size: 1rem;
   }
+}.u-section-5 .u-sheet-1 {
+  min-height: 53px;
+}
+
+.u-section-5 .u-custom-html-1 {
+  margin-bottom: 24px;
 }
