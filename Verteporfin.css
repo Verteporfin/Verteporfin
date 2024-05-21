@@ -856,11 +856,11 @@
     height: 121px;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 2535px;
+  min-height: 2314px;
 }
 
 .u-section-4 .u-text-1 {
-  margin: 37px auto 0 0;
+  margin: 36px auto 0 0;
 }
 
 .u-section-4 .u-text-2 {
@@ -871,7 +871,7 @@
 
 .u-section-4 .u-table-1 {
   margin-top: 26px;
-  margin-bottom: 51px;
+  margin-bottom: 36px;
 }
 
 .u-section-4 .u-table-entity-1 {
@@ -1082,6 +1082,5 @@
 @media (max-width: 767px) {
   .u-section-4 .u-text-2 {
     font-size: 1rem;
-    margin-top: 20px;
   }
 }
