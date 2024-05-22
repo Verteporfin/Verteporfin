@@ -42554,11 +42554,11 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 73px;
+  min-height: 53px;
 }
 
 .u-header .u-text-1 {
-  margin: 15px auto 15px 0;
+  margin: 6px 0 0;
 }
 
 .u-header .u-btn-1 {
@@ -42566,9 +42566,49 @@ a.u-link.u-text-hover-grey-90:hover {
   padding: 0;
 }
 
+.u-header .u-custom-html-1 {
+  height: auto;
+  min-height: 36px;
+  margin: -36px 0 4px 940px;
+}
+@media (max-width: 1199px) {
+  .u-header .u-custom-html-1 {
+    margin-top: -36px;
+    margin-left: 740px;
+  }
+}
+@media (max-width: 991px) {
+  .u-header .u-custom-html-1 {
+    margin-left: 520px;
+  }
+}
+@media (max-width: 767px) {
+  .u-header .u-text-1 {
+    width: auto;
+    margin-top: 10px;
+  }
 
+  .u-header .u-custom-html-1 {
+    margin-top: -36px;
+    margin-bottom: 7px;
+    margin-left: 340px;
+  }
+}
+@media (max-width: 575px) {
+  .u-header .u-sheet-1 {
+    min-height: 54px;
+  }
 
+  .u-header .u-text-1 {
+    margin-top: 18px;
+  }
 
+  .u-header .u-custom-html-1 {
+    margin-top: -32px;
+    margin-bottom: 4px;
+    margin-left: 140px;
+  }
+}
  .u-footer {
   background-image: none;
 }
